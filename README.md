@@ -1,1 +1,1 @@
-# parmeetcodeatuni.gifthub.io
+# parmeetcodeatuni.github.io
